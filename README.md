@@ -1,4 +1,5 @@
-# custom-image-with-yocto-ignition
+# Create custom image for ignition using yocto
+
 Creating a custom Yocto image that includes Ignition requires several steps. You'll need to configure Yocto to build a custom image with all the necessary components, including Ignition. 
 
 ## What is ignition?
